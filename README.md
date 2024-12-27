@@ -12,3 +12,8 @@ I'm a **Computer Science student at Babeș-Bolyai University** passionate about 
 - **Data Management**: SQL, SQL Server
 - **Other Skills**: Computer Networks, Operating Systems, Functional Programming
 
+---
+
+### 🌱 Currently Learning
+- **Machine Learning**: Exploring Python libraries like TensorFlow and scikit-learn to build predictive models and AI solutions.
+- **Web Development**: Learning full-stack development with React.js, Node.js, and modern web design practices.
